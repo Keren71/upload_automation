@@ -9,5 +9,4 @@ A Python script that monitors a folder for new images, uploads them automaticall
 
 ## 🛠️ Installation
 1. Clone the repository:
-   ```bash
 git remote add origin https://github.com/Keren71/upload_automation.git 
